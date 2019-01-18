@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://10.33.212.92/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
